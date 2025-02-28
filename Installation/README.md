@@ -1,7 +1,6 @@
 # GitLab Install & Set up on Ubuntu
 ===========================================
 
-Follow this `https://about.gitlab.com/install/#amazonlinux-2023`
 
 ### 1. Update Your System
 
