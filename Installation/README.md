@@ -73,3 +73,8 @@ Once logged in, you can change the root password and configure GitLab further.
 
 
 ======================END===============================
+
+
+Setting up GitLab on Windows directly isn't as straightforward as on Linux-based systems because GitLab is primarily designed to run on Linux. 
+
+However, we can still run GitLab on Windows using Windows Subsystem for Linux (WSL) or a virtual machine (VM). 
